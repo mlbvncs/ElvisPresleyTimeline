@@ -2,6 +2,11 @@
   --color1: #0a0a23;
   --color2: #ffffff;
   --color3: #0a58ca;
+  --color4: #1c283d;
+}
+
+::selection {
+  background-color: var(--color4);
 }
 
 body {
