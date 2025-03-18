@@ -1,0 +1,33 @@
+:root {
+  --color1: #0a0a23;
+  --color2: #ffffff;
+  --color3: #0a58ca;
+}
+
+body {
+  background-color: var(--color1);
+  color: var(--color2);
+}
+
+.div1 {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.section1 {
+  width: 100%;
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+h3 {
+  margin: 1em 0;
+}
+
+a {
+  color: var(--color2);
+}
+
+a:hover {
+  color: var(--color3);
+}
