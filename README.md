@@ -1,4 +1,5 @@
 # ElvisPresleyTimeline
+
 Front-end project using HTML and CSS that simulates the timeline of Elvis Presley's life.
 
 ## Requirements
